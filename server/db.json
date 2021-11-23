@@ -1,0 +1,94 @@
+{
+  "anuncios": [
+    {
+      "id": 2,
+      "titulo": "Chevrolet",
+      "transaccion": "Alquiler",
+      "descripcion": "Corsa",
+      "precio": "150000",
+      "puertas": "3",
+      "kms": "150000",
+      "potencia": "125"
+    },
+    {
+      "id": 3,
+      "titulo": "Fiat",
+      "transaccion": "Permuta",
+      "descripcion": "Palio",
+      "precio": "90000",
+      "puertas": "5",
+      "kms": "200000",
+      "potencia": "100"
+    },
+    {
+      "id": 4,
+      "titulo": "Chevrolet",
+      "transaccion": "Venta",
+      "descripcion": "Onix LTZ",
+      "precio": "450000",
+      "puertas": "5",
+      "kms": "15000",
+      "potencia": "145"
+    },
+    {
+      "id": 5,
+      "titulo": "Renault",
+      "transaccion": "Permuta",
+      "descripcion": "Sandero Stepway",
+      "precio": "940000",
+      "puertas": "4",
+      "kms": "35000",
+      "potencia": "350"
+    },
+    {
+      "id": 6,
+      "titulo": "Fiat",
+      "transaccion": "Alquiler",
+      "descripcion": "Palio Adventure",
+      "precio": "350000",
+      "puertas": "5",
+      "kms": "13000",
+      "potencia": "123"
+    },
+    {
+      "id": 7,
+      "titulo": "Ford",
+      "transaccion": "Venta",
+      "descripcion": "Fiesta",
+      "precio": "350000",
+      "puertas": "5",
+      "kms": "100000",
+      "potencia": "230"
+    },
+    {
+      "id": 8,
+      "titulo": "Jeep",
+      "transaccion": "Alquiler",
+      "descripcion": "Renegade",
+      "precio": "900000",
+      "puertas": "5",
+      "kms": "10000",
+      "potencia": "125"
+    },
+    {
+      "id": 9,
+      "titulo": "Citroen",
+      "transaccion": "Permuta",
+      "descripcion": "C3",
+      "precio": "750000",
+      "puertas": "3",
+      "kms": "15000",
+      "potencia": "135"
+    },
+    {
+      "id": 10,
+      "titulo": "Peugeot",
+      "transaccion": "Venta",
+      "descripcion": "504",
+      "precio": "275000",
+      "puertas": "5",
+      "kms": "36000",
+      "potencia": "145"
+    }
+  ]
+}
